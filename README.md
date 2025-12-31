@@ -1,6 +1,6 @@
-# ��� Birthday Countdown Website
+# ��� Anniversary Countdown Website
 
-Beautiful birthday website with countdown, photo gallery, and celebration effects!
+Beautiful Anniversary website with countdown, photo gallery, and celebration effects!
 
 ---
 
@@ -21,7 +21,7 @@ Open `http://localhost:5173`
 **File:** `src/components/Countdown.jsx` (Line 21)
 
 ```javascript
-const targetDate = new Date("2025-12-18T00:00:00");
+const targetDate = new Date("2025-12-31T80:00:00");
 ```
 
 **Format Explanation:**
@@ -70,9 +70,9 @@ const targetDate = new Date("2025-12-25T12:00:00");
 **File:** `src/components/MessageCard.jsx` (Lines 17-28)
 
 ```javascript
-const recipientName = "Divyanshi";
-const senderName = "Ashmit";
-const message = `Your message here...`;
+const recipientName = "Krishunana";
+const senderName = "SuprajaKrishnaVamsi";
+const message = `Love you my babyboyy na bujjikodukuu Happy 8th Anniversary of our love dear!`;
 ```
 
 ---
@@ -89,7 +89,15 @@ Replace `public/music.mp3` with your song
 
 ---
 
-## ��� Test Your Changes
+## ��� Test Your Changes![inbound765518388269899911](https://github.com/user-attachments/assets/a129c13e-04cb-44e5-9250-a55b1bd0c4d7)
+![inbound6336077426432187153](https://github.com/user-attachments/assets/d6fe720f-c181-4acc-824d-0d0a5057db62)
+![inbound6890624709514545324](https://github.com/user-attachments/assets/3cf70bf0-044e-48bd-bc18-46990a9bef9e)
+![inbound1548705994227196953](https://github.com/user-attachments/assets/2f1feb22-15be-49fe-a0ae-6fb8b9cd254f)
+![inbound7163329107115597224](https://github.com/user-attachments/assets/5684c7b2-e4e5-4b60-b861-b4789e1cca1c)
+![inbound5002170210410229296](https://github.com/user-attachments/assets/396879a8-814d-4d87-b0a3-74694be1b2ab)
+![inbound2319151020858077718](https://github.com/user-attachments/assets/0281743f-9840-4507-9f5f-c04e2384c7de)
+![inbound3709209299027874151](https://github.com/user-attachments/assets/d5a3b720-15a4-4e45-93ee-09889211d367)
+
 
 ### Using the Test Button
 
